@@ -1047,7 +1047,7 @@ msgid "room_artisanshop_success_title"
 msgstr "Succès 'Assistanat'"
 
 msgid "room_artisanshop_success_text"
-msgstr "Tu sais maintenant utiliser 'touch' et 'mv'."
+msgstr "Tu sais maintenant utiliser 'touch' et 'cp'."
 
 msgid "room_artisanshop_text"
 msgstr ""
